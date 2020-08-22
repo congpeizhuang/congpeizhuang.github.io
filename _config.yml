@@ -35,9 +35,10 @@ plugins:
 
 plainwhite:
   name: Peizhuang Cong
-  tagline: PhD Student
-  State Key Laboratory Of Networking And Switching Technology
-  Beijing University of Posts and Telecommunications
+  tagline: |
+    PhD Student
+    State Key Laboratory Of Networking And Switching Technology
+    Beijing University of Posts and Telecommunications
   date_format: "%b %-d, %Y"
   
   #social_links:
