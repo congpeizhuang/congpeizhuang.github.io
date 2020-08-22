@@ -4,23 +4,12 @@
 
 layout: home
 ---
-I am a first year PhD student at the University of Sheffield in the Department of Computer Science supervised by Dr. Neil Walkinshaw. You can find out more about my previous education and employment on my LinkedIn profile.
+I am a PhD student at State Key Laboratory of Networking and Switching Technology(Beijing University of Posts and Telecommunications) supervised by Prof. Wendong Wang and [Dr.Yuchao Zhang](http://yuchaozhang.weebly.com/).
+Email: congpeizhuang@bupt.edu.cn
+Address: Beijing University of Posts and Telecommunications No.10 Xitucheng Road, Haidian District, Beijing, China.
 
 #### Research
-My main research interests include software testing, computational models and causal inference. My research focusses on how causal inference techniques may be applied to support various testing activities, especially when applied to real world computational models.
+My main research interests include the next generation network architecture, mobile Internet, NetAI.
 
-Aside from my main research, I am also interested in data visualisation and enjoy finding creative ways to communicate messy data and statistics.
-
-#### Technology
-I mainly develop in Python and Java, but have experience with a range of programming languages and technologies including, but not limited to:
-
-<p align="center">
-    <i class="devicon-python-plain technologyIcons"></i>
-    <i class="devicon-java-plain technologyIcons"></i>
-    <i class="devicon-ruby-plain technologyIcons"></i>
-    <i class="devicon-javascript-plain technologyIcons"></i>
-    <i class="devicon-angularjs-plain technologyIcons"></i>
-    <i class="devicon-git-plain technologyIcons"></i>
-</p>
-
-
+#### Publications
+Peizhuang Cong, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations. 2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop. 9-13 December, Waikoloa, HI, USA. [Link](https://ieeexplore.ieee.org/abstract/document/9024562)
