@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/congpeizhuang/congpeizhuang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+layout: home
+---
+I am a first year PhD student at the University of Sheffield in the Department of Computer Science supervised by Dr. Neil Walkinshaw. You can find out more about my previous education and employment on my LinkedIn profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Research
+My main research interests include software testing, computational models and causal inference. My research focusses on how causal inference techniques may be applied to support various testing activities, especially when applied to real world computational models.
 
-### Markdown
+Aside from my main research, I am also interested in data visualisation and enjoy finding creative ways to communicate messy data and statistics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Technology
+I mainly develop in Python and Java, but have experience with a range of programming languages and technologies including, but not limited to:
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+    <i class="devicon-python-plain technologyIcons"></i>
+    <i class="devicon-java-plain technologyIcons"></i>
+    <i class="devicon-ruby-plain technologyIcons"></i>
+    <i class="devicon-javascript-plain technologyIcons"></i>
+    <i class="devicon-angularjs-plain technologyIcons"></i>
+    <i class="devicon-git-plain technologyIcons"></i>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/congpeizhuang/congpeizhuang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
