@@ -16,5 +16,5 @@ My main research interests include the next generation network architecture, mob
 ● **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations[C]. 2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop. 9-13 December, Waikoloa, HI, USA. [[Link]](https://ieeexplore.ieee.org/abstract/document/9024562)  
 
 #### Patents:
-*Chinese Patents:* 
+*Chinese Patents:*  
 ● 张宇超; **丛培壮**; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法. 201910916959.2
