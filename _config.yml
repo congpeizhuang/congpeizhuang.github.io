@@ -45,11 +45,11 @@ plainwhite:
     
   portfolio_image:  "content/pic.png"
   
-  navigation:
-    - title: Publications
-      url: "/content/publications"
-    - title: Papers
-      url: "/content/Papers"
+  #navigation:
+    #- title: Publications
+      #url: "/content/publications"
+    #- title: Papers
+      #url: "/content/Papers"
   
   dark_mode: true
 
