@@ -1,15 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-I am a PhD student at State Key Laboratory of Networking and Switching Technology(Beijing University of Posts and Telecommunications) supervised by Prof. Wendong Wang and [Dr.Yuchao Zhang](http://yuchaozhang.weebly.com/).
-Email: congpeizhuang@bupt.edu.cn
+I am a PhD student at State Key Laboratory of Networking and Switching Technology(Beijing University of Posts and Telecommunications) supervised by Prof. Wendong Wang and [Dr.Yuchao Zhang](http://yuchaozhang.weebly.com/).  
+Email: congpeizhuang@bupt.edu.cn  
 Address: Beijing University of Posts and Telecommunications No.10 Xitucheng Road, Haidian District, Beijing, China.
 
 #### Research
 My main research interests include the next generation network architecture, mobile Internet, NetAI.
 
 #### Publications
-Peizhuang Cong, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations. 2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop. 9-13 December, Waikoloa, HI, USA. [Link](https://ieeexplore.ieee.org/abstract/document/9024562)
+Yuchao Zhang, Ye Tian, Wendong Wang, **Peizhuang Cong**, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network[C]. IEEE International Conference on Computer Communications (Infocom'2020) Poster. 6-9 July, 2020, Toronto, Canada. (Virtual Conference)
+
+**Peizhuang Cong**, Ye Tian, Xiangyang Gong, Xirong Que, Wendong Wang. A survey of key protocol and application scenario of time-sensitive network[J]. Telecommunications Science, 2019, 35(10): 31-42.(in Chinese)[Link](http://www.infocomm-journal.com/dxkx/CN/10.11959/j.issn.1000-0801.2019227)[Link](https://ieeexplore.ieee.org/abstract/document/9162750)
+
+**Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations[C]. 2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop. 9-13 December, Waikoloa, HI, USA. [Link](https://ieeexplore.ieee.org/abstract/document/9024562)  
+
+#### Patents
+**Chinese Patents:**
+张宇超; **丛培壮**; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法. 201910916959.2
