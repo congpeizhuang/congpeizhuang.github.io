@@ -5,7 +5,7 @@ I am a PhD student at State Key Laboratory of Networking and Switching Technolog
 Email: congpeizhuang@bupt.edu.cn  
 Address: Beijing University of Posts and Telecommunications No.10 Xitucheng Road, Haidian District, Beijing, China.
 
-#### $\color{#003b57}{Research：}$
+#### <font color=#003b57>Research：</font>
 My main research interests include the next generation network architecture, mobile Internet, NetAI.
 
 #### Publications：
