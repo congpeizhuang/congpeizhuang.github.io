@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Andrew Clark
-email: agclark2@sheffield.ac.uk
+title: Peizhuang Cong
+email: congpeizhuang@bupt.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD student in the Department of Computer Science at the University
-  of Sheffield. My research interests include techniques for testing
-  computational models, causal inference, statistics and machine learning.
+  PhD student in the State Key Laboratory Of Networking And Switching Technology of Beijing University of Posts and Telecommunications.
+  My research interests include the next generation network architecture and mobile Internet.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andrewc19.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: andrew_gclark
-github_username:  AndrewC19
+url: "https://congpeizhuang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  congpeizhuang
 
 # Build settings
 theme: plainwhite
@@ -42,16 +41,16 @@ plainwhite:
   #     url: "/#posts-label"
   dark_mode: true
   tagline: |
-    Software Engineering PhD Student
-    University of Sheffield, UK
-  name: Andrew Clark
+    PhD Student
+    Beijing University of Posts and Telecommunications, CN
+  name: Peizhuang Cong
   date_format: "%b %-d, %Y"
   sitemap: false
 
-  social_links:
-    twitter: andrew_gclark
-    github: andrewc19
-    linkedIn: in/andrewc19/ # format: locale/username
+  #social_links:
+    #twitter: andrew_gclark
+    #github: andrewc19
+    #linkedIn: in/andrewc19/ # format: locale/username
 
 style: light
 listen_for_clients_preferred_style: true
