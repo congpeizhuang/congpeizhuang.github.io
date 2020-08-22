@@ -34,43 +34,23 @@ plugins:
   - jekyll-feed
 
 plainwhite:
-  # navigation:
-  #   - title: About
-  #     url: "/#posts-label-about"
-  #   - title: News
-  #     url: "/#posts-label"
-  dark_mode: true
-  tagline: |
-    PhD Student
-    Beijing University of Posts and Telecommunications, China
   name: Peizhuang Cong
+  tagline: PhD Student in BUPT
   date_format: "%b %-d, %Y"
-  sitemap: false
-  portfolio_image:  "content/pic.png"
+  
   #social_links:
-    #twitter: andrew_gclark
-    #github: andrewc19
-    #linkedIn: in/andrewc19/ # format: locale/username
+    #twitter: 
+    #github: 
+    #linkedIn: in/*** # format: locale/username
+    
+  portfolio_image:  "content/pic.png"
+  
+  navigation:
+    - title: Publications
+      url: "/content/publications"
+    - title: Papers
+      url: "/content/Papers"
+  
+  dark_mode: true
 
-style: light
-listen_for_clients_preferred_style: true
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  listen_for_clients_preferred_style: true
