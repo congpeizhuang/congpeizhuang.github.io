@@ -46,7 +46,7 @@ plainwhite:
   name: Peizhuang Cong
   date_format: "%b %-d, %Y"
   sitemap: false
-
+  portfolio_image:  "content/pic.png"
   #social_links:
     #twitter: andrew_gclark
     #github: andrewc19
