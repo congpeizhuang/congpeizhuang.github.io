@@ -46,7 +46,7 @@ plainwhite:
     #github: 
     #linkedIn: in/*** # format: locale/username
     
-  portfolio_image:  "content/pic.png"
+  portfolio_image:  "assets/pic.png"
   
   #navigation:
     #- title: Publications
