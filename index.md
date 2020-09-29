@@ -17,4 +17,4 @@ My main research interests include the next generation network architecture, mob
 
 #### Patents:
 *Chinese Patents:*  
-● 张宇超; **丛培壮**; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法. 201910916959.2
+● 张宇超; **丛培壮**; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法. 专利号：ZL 2019 1 0916959.2
