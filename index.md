@@ -20,3 +20,10 @@ My main research interests include the next generation network architecture, mob
 #### Patents:
 *Chinese Patents:*  
 ● 张宇超; **丛培壮**; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法. 专利号：ZL 2019 1 0916959.2
+
+#### Teaching Assistant:
+● New Technologies in the Future Internet, Computer Science Dept., BUPT, 2020 Spring.
+
+
+#### Internship Experience:
+● 2012 Theory Lab, Huawei, Ph.D. Research Intern. Jul.2019-Sep.2019.
