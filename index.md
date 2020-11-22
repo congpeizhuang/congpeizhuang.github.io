@@ -10,7 +10,7 @@ I am a PhD student at State Key Laboratory of Networking and Switching Technolog
 My main research interests include the next generation network architecture, mobile Internet, NetAI.
 
 #### Publications:
-**Peizhuang Cong**, Yuchao Zhang, Ye Tian, Wendong Wang, Dan Li. Design of federated routing mechanism in cross-domain scenario[J]. Telecommunications Science (in Chinese)[Accepted]
+<font size=5>●</font> **Peizhuang Cong**, Yuchao Zhang, Ye Tian, Wendong Wang, Dan Li. Design of federated routing mechanism in cross-domain scenario[J]. Telecommunications Science (in Chinese)[Accepted]
 
 Yuchao Zhang, Ye Tian, Wendong Wang, **Peizhuang Cong**, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network[C]. IEEE International Conference on Computer Communications (Infocom'2020) Poster. 6-9 July, 2020, Toronto, Canada. (Virtual Conference)[[Link]](https://ieeexplore.ieee.org/abstract/document/9162750)
 
@@ -18,9 +18,8 @@ Yuchao Zhang, Ye Tian, Wendong Wang, **Peizhuang Cong**, Chao Chen, Dan Li, Ke X
 
 **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations[C]. 2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop. 9-13 December, Waikoloa, HI, USA. [[Link]](https://ieeexplore.ieee.org/abstract/document/9024562)  
 
-#### Patents:
-*Chinese Patents:*  
-张宇超; **丛培壮**; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法. 专利号：ZL 2019 1 0916959.2
+#### Patents: 
+张宇超; **丛培壮**; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法. 专利号：ZL 2019 1 0916959.2 (Chinese Patents)
 
 #### Teaching Assistant:
 New Technologies in the Future Internet, Computer Science Dept., BUPT, 2020 Spring.
