@@ -10,7 +10,7 @@ I am a PhD student at State Key Laboratory of Networking and Switching Technolog
 My main research interests include the next generation network architecture, mobile Internet, NetAI.
 
 #### Publications:
-<font size=5>●</font> **Peizhuang Cong**, Yuchao Zhang, Ye Tian, Wendong Wang, Dan Li. Design of federated routing mechanism in cross-domain scenario[J]. Telecommunications Science (in Chinese)[Accepted]
+<font size=7>●</font> **Peizhuang Cong**, Yuchao Zhang, Ye Tian, Wendong Wang, Dan Li. Design of federated routing mechanism in cross-domain scenario[J]. Telecommunications Science (in Chinese)[Accepted]
 
 Yuchao Zhang, Ye Tian, Wendong Wang, **Peizhuang Cong**, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network[C]. IEEE International Conference on Computer Communications (Infocom'2020) Poster. 6-9 July, 2020, Toronto, Canada. (Virtual Conference)[[Link]](https://ieeexplore.ieee.org/abstract/document/9162750)
 
