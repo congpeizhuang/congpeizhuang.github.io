@@ -10,6 +10,10 @@ I am a PhD student at State Key Laboratory of Networking and Switching Technolog
 My main research interests include the next generation network architecture, mobile Internet, NetAI.
 
 #### ● Publications:
+*2021:*
+
+[5]**Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks[C].ICC 2021 IEEE International Conference on Communications (ICC)(Accepted)
+
 *2020:*
 
 [4] **Peizhuang Cong**, Yuchao Zhang, Ye Tian, Wendong Wang, Dan Li. Design of federated routing mechanism in cross-domain scenario[J]. Telecommunications Science (in Chinese)[[Link]](http://www.infocomm-journal.com/dxkx/article/2020/1000-0801/1000-0801-36-10-00029.shtml)
