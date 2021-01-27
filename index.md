@@ -12,7 +12,7 @@ My main research interests include the next generation network architecture, mob
 #### ● Publications:
 *2021:*
 
-[5]**Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks[C].ICC 2021 IEEE International Conference on Communications (ICC)(Accepted)
+[5] **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks[C].ICC 2021 IEEE International Conference on Communications (ICC)
 
 *2020:*
 
