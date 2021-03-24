@@ -12,6 +12,8 @@ My main research interests include the next generation network architecture, mob
 #### ● Publications:
 *2021:*
 
+[7] **Peizhuang Cong**, Yuchao Zhang, Zheli Liu, et al. A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks[J]. Computer Networks, 2021.
+
 [6] **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang. DND: Driver Node Detection for Control Message Diffusion in Smart Transportations[J]. IEEE Transactions on Network and Service Management, 2021.[[Link]](https://ieeexplore.ieee.org/document/9354864)
 
 [5] **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks[C].ICC 2021 IEEE International Conference on Communications (ICC)
