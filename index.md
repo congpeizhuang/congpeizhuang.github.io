@@ -36,7 +36,7 @@ My main research interests include the next generation network architecture, mob
 张宇超; **丛培壮**; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法. 专利号：ZL 2019 1 0916959.2
 
 #### ● Awards:
-BUPT Excellent Ph.D. Students Foundation
+BUPT Excellent Ph.D. Students Foundation, 2021
 
 #### ● Teaching Assistant:
 New Technologies in the Future Internet, Computer Science Dept., BUPT, 2020 Spring.
