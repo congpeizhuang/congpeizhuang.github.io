@@ -12,6 +12,8 @@ My main research interests include the next generation network architecture, mob
 #### ● Publications:
 *2021:*
 
+[8] Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu. AIR: An AI-based TCAM Entry Replacement Scheme for Routers[C]. IEEE/ACM International Symposium on Quality of Service (IWQoS 2021, first  student author)
+
 [7] **Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks[J]. Computer Networks, 2021.
 
 [6] **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang. DND: Driver Node Detection for Control Message Diffusion in Smart Transportations[J]. IEEE Transactions on Network and Service Management, 2021.[[Link]](https://ieeexplore.ieee.org/document/9354864)
