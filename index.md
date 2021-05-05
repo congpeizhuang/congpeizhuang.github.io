@@ -12,7 +12,7 @@ My main research interests include the next generation network architecture, mob
 #### ● Publications:
 *2021:*
 
-[8] Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu. AIR: An AI-based TCAM Entry Replacement Scheme for Routers[C]. IEEE/ACM International Symposium on Quality of Service (IWQoS 2021, first  student author)
+[8] Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu. AIR: An AI-based TCAM Entry Replacement Scheme for Routers[C]. IEEE/ACM International Symposium on Quality of Service (IWQoS 2021, first student author)
 
 [7] **Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks[J]. Computer Networks, 2021.
 
@@ -22,13 +22,13 @@ My main research interests include the next generation network architecture, mob
 
 *2020:*
 
-[4] **Peizhuang Cong**, Yuchao Zhang, Ye Tian, Wendong Wang, Dan Li. Design of federated routing mechanism in cross-domain scenario[J]. Telecommunications Science (in Chinese)[[Link]](http://www.infocomm-journal.com/dxkx/article/2020/1000-0801/1000-0801-36-10-00029.shtml)
+[4] **Peizhuang Cong**, Yuchao Zhang, Ye Tian, Wendong Wang, Dan Li. Design of federated routing mechanism in cross-domain scenario[J]. Telecommunications Science (in Chinese, invited paper)[[Link]](http://www.infocomm-journal.com/dxkx/article/2020/1000-0801/1000-0801-36-10-00029.shtml)
 
 [3] Yuchao Zhang, Ye Tian, Wendong Wang, **Peizhuang Cong**, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network[C]. IEEE International Conference on Computer Communications (Infocom'2020) Poster. 6-9 July, 2020, Toronto, Canada. (Virtual Conference)[[Link]](https://ieeexplore.ieee.org/abstract/document/9162750)
 
 *2019:*
 
-[2] **Peizhuang Cong**, Ye Tian, Xiangyang Gong, Xirong Que, Wendong Wang. A survey of key protocol and application scenario of time-sensitive network[J]. Telecommunications Science, 2019, 35(10): 31-42.(in Chinese)[[Link]](http://www.infocomm-journal.com/dxkx/CN/10.11959/j.issn.1000-0801.2019227)
+[2] **Peizhuang Cong**, Ye Tian, Xiangyang Gong, Xirong Que, Wendong Wang. A survey of key protocol and application scenario of time-sensitive network[J]. Telecommunications Science, 2019, 35(10): 31-42.(in Chinese, invited paper)[[Link]](http://www.infocomm-journal.com/dxkx/CN/10.11959/j.issn.1000-0801.2019227)
 
 [1] **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations[C]. 2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop. 9-13 December, Waikoloa, HI, USA. [[Link]](https://ieeexplore.ieee.org/abstract/document/9024562)  
 
