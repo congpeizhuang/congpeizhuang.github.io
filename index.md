@@ -2,7 +2,7 @@
 layout: home
 ---
 #### ● About Me:
-I am a PhD student at State Key Laboratory of Networking and Switching Technology(Beijing University of Posts and Telecommunications) supervised by [Prof. Wendong Wang](https://int.bupt.edu.cn/content/content.php?p=6_16_116) and [Dr. Yuchao Zhang](http://yuchaozhang.weebly.com/).  
+I am a PhD student at State Key Laboratory of Networking and Switching Technology(Beijing University of Posts and Telecommunications) supervised by [Prof. Wendong Wang](https://int.bupt.edu.cn/content/content.php?p=6_16_116) and [Prof. Yuchao Zhang](http://yuchaozhang.weebly.com/).  
 **Email:** congpeizhuang@bupt.edu.cn  
 **Address:** BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
